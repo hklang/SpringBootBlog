@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+
+
+  #https://github.com/caozongpeng/SpringBootBlog
